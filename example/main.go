@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/akosmarton/panull"
+	"github.com/sordfish/panull"
 )
 
 func main() {
